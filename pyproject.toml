@@ -1,0 +1,4 @@
+[project]
+name = "digital-yuan-merchant"
+version = "0.1.0"
+requires-python = ">=3.11"
